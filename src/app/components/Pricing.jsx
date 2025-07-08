@@ -85,7 +85,7 @@ const Pricing = () => {
   return (
     <div className="min-h-screen bg-gray-100 py-12 px-4 sm:px-6 lg:px-8">
       <div className="flex">
-        <h2 className="text-3xl font-bold text-white rounded-full bg-primary text-start p-2 px-4 mb-10">
+        <h2 className="text-xl font-bold text-white rounded-full bg-primary text-start p-2 px-4 mb-10">
           Our Packages
         </h2>
       </div>

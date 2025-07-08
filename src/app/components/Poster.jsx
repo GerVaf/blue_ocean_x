@@ -51,9 +51,9 @@ const Poster = () => {
   );
 
   return (
-    <div className="py-10 px-6 overflow-hidden">
+    <div className="py-10 px-3 overflow-hidden">
       <div className="flex">
-        <h2 className="text-3xl font-bold text-white rounded-full bg-primary text-start p-2 px-4 my-10">
+        <h2 className="text-xl font-bold text-white rounded-full bg-primary text-start p-2 px-4 my-10">
           The movies and series
         </h2>
       </div>

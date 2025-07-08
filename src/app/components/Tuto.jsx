@@ -30,7 +30,7 @@ const Tuto = () => {
 
   return (
     <div className="min-h-screen bg-gray-50 py-10 px-4 md:px-16">
-      <h2 className="text-3xl font-bold text-primary mb-8 text-center">
+      <h2 className="text-xl font-bold text-primary mb-8 text-center">
         Installation Tutorials & Downloads
       </h2>
 

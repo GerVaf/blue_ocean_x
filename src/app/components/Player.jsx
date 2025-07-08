@@ -18,7 +18,7 @@ const Player = () => {
 
       {/* Overlay Text & Logo */}
       <div className="absolute inset-0  flex flex-col items-center justify-center bg-black/30 text-white text-center px-4">
-        <div className="text-3xl font-bold drop-shadow-md">
+        <div className="text-xl font-bold drop-shadow-md">
           <ShinyText
             text="BLUE OCEAN X"
             disabled={false}
