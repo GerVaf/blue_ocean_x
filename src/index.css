@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Padauk:wght@400;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Apply Montserrat as global font */
+@layer base {
+  body {
+    @apply font-sans bg-white text-gray-900 font-semibold;
+  }
+}
+
+/* Padauk font utility class */
+@layer utilities {
+  .padauk {
+    @apply font-padauk;
+  }
+}
